@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PrajvalSingh
 - 👀 I’m interested in Full Stack Web Development
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Dart + Flutter
 - 📫 My Email Addres: prajval.laptop2323@gmail.com
 
 <!---
